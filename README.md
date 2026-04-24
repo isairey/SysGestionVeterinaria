@@ -62,8 +62,8 @@ La aplicación está diseñada para mejorar la organización, optimizar procesos
 ### 1️⃣ Clonar el repositorio
 
 ```bash id="g7k2p4"
-git clone https://github.com/isairey/tu-repo.git
-cd tu-repo
+git clone https://github.com/isairey/SysGestionVeterinaria.git
+cd SysGestionVeterinaria
 ```
 
 ---
